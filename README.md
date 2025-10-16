@@ -15,6 +15,8 @@ Tired of AI-generated content flooding your search results? This extension helps
 
 ## Installation
 
+![Demo](demo.gif)
+
 1. **Download the extension**
 
    - Click the green "Code" button above
